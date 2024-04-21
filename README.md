@@ -14,6 +14,7 @@ Purple Llama is an umbrella project that over time will bring together tools
 and evals to help the community build responsibly with open generative AI
 models. The initial release will include tools and evals for Cyber Security and
 Input/Output safeguards but we plan to contribute more in the near future.
+SITA RAM SITA RAM SITA RAM SITA RAM SITA RAM 
 
 ## Why purple?
 
